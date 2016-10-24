@@ -25,7 +25,7 @@
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 1,
-    'summary': 'Manage Students, Faculties and Education Institute',
+    'summary': 'Manage Students, Faculties & Education Institute',
     'complexity': "easy",
     'description': """
         This module provide core education management system over OpenERP
